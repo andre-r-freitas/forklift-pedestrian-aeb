@@ -41,7 +41,7 @@ plugins Neural Network Engine (runtime `NNERuntimeORTDml`), Chaos Vehicles and S
 
 1. Copy `unreal/` into a folder of your choice.
 2. Right-click `MeshEditor.uproject` > *Generate Visual Studio project files*.
-3. Open the solution and build the `MeshEditorEditor` target (Development Editor, Win64).
+3. Open the solution, select the Development Editor configuration and Win64, and build the `MeshEditor` project (this builds the `MeshEditorEditor` target).
 
 Runs are written to `Saved/EvalRuns/<BatchId>/<RunId>/`, one folder per run with `run_metadata.json`, the
 per-frame CSV files and (optionally) the frames. The format is described in Appendix C of the thesis.
