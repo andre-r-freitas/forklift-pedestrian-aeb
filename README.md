@@ -88,8 +88,8 @@ python labels.py               # writes <model>.labels.json next to each export
 | `data/batch1b` | 1b | Open loop | S12 | 90 |
 | `data/batch2` | 2 | Closed loop, latency 0.1 s | S2+S3, S5 | 90 |
 | `data/batch3` | 3 | Closed loop, latency 0.2 s | S2+S3 | 27 |
-| `data/batch4` | 4 | Open loop | S7–S9, S11 | 79 |
-| `data/batch4_s7` | 4 | Open loop | S7a, S7b | (S7 part of batch 4) |
+| `data/batch4` | 4 | Open loop | S8, S9, S11 | 70 |
+| `data/batch4_s7` | 4 | Open loop | S7a, S7b | 9 |
 | `data/batch5` | 5 | Closed loop, latency 0.1 s | S9 | 15 |
 | `data/batch6` | 6 | Open loop | S10 | 20 |
 | `data/batch7` | 7 | Closed loop, 10 Hz | S2+S3, S5 | 60 |
