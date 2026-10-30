@@ -1,0 +1,10 @@
+run_key,run_id,scenario_id,variant,target_kmh,braking,seed,detector,flags,valid,frames_used,gt_evaluable,tp,fp,fn,match_agreement_with_unreal
+PartialVisibility_1_2m_v10_rep00,PartialVisibility_1_2m_v10_rep00,PartialVisibility_1_2m,PartialVisibility_1_2m_v10,10.0,False,1234,unreal,,True,82,54,54,0,0,1.0
+PartialVisibility_1_2m_v10_rep01,PartialVisibility_1_2m_v10_rep01,PartialVisibility_1_2m,PartialVisibility_1_2m_v10,10.0,False,1235,unreal,,True,82,52,52,2,0,1.0
+PartialVisibility_1_2m_v10_rep02,PartialVisibility_1_2m_v10_rep02,PartialVisibility_1_2m,PartialVisibility_1_2m_v10,10.0,False,1236,unreal,,True,82,53,53,0,0,1.0
+PartialVisibility_1_2m_v15_rep00,PartialVisibility_1_2m_v15_rep00,PartialVisibility_1_2m,PartialVisibility_1_2m_v15,15.0,False,1234,unreal,,True,55,36,36,0,0,1.0
+PartialVisibility_1_2m_v15_rep01,PartialVisibility_1_2m_v15_rep01,PartialVisibility_1_2m,PartialVisibility_1_2m_v15,15.0,False,1235,unreal,,True,55,35,35,0,0,1.0
+PartialVisibility_1_2m_v15_rep02,PartialVisibility_1_2m_v15_rep02,PartialVisibility_1_2m,PartialVisibility_1_2m_v15,15.0,False,1236,unreal,,True,55,35,35,0,0,1.0
+PartialVisibility_1_8m_v10_rep00,PartialVisibility_1_8m_v10_rep00,PartialVisibility_1_8m,PartialVisibility_1_8m_v10,10.0,False,1234,unreal,,True,82,41,41,0,0,1.0
+PartialVisibility_1_8m_v10_rep01,PartialVisibility_1_8m_v10_rep01,PartialVisibility_1_8m,PartialVisibility_1_8m_v10,10.0,False,1235,unreal,,True,82,38,38,1,0,1.0
+PartialVisibility_1_8m_v10_rep02,PartialVisibility_1_8m_v10_rep02,PartialVisibility_1_8m,PartialVisibility_1_8m_v10,10.0,False,1236,unreal,,True,82,40,40,0,0,1.0

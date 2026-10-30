@@ -1,0 +1,38 @@
+# Unreal Engine: generated or machine-specific
+unreal/Binaries/
+unreal/Intermediate/
+unreal/Saved/
+unreal/DerivedDataCache/
+unreal/Content/
+unreal/Plugins/
+unreal/ThirdParty/
+unreal/Config/DefaultEditor.ini
+unreal/Config/DefaultEditorPerProjectUserSettings.ini
+unreal/Config/Layouts/
+.vs/
+*.sln
+*.suo
+*.sdf
+*.VC.db
+*.opendb
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model weights and exports (download or export them; see README)
+*.pt
+*.onnx
+*.labels.json
+
+# Large or derived run data: frames, depth maps, generated figures
+*.png
+*.jpg
+*.npy
+*.exr
+figures*/
+
+# Local notes
+paths.txt

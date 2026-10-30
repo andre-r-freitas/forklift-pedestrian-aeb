@@ -1,0 +1,15 @@
+run_id,scenario_id,rep,frame_index,timestamp_s,stencil_id,actor_name,class_id,center_x,center_y,width,height,visible_px,full_px,detected
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,90,2171.7832,2,BP_WorkerCharacter_C_1,0,417.0,445.0,21.0,91.0,364,3730,0
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,91,2171.9832,2,BP_WorkerCharacter_C_1,0,416.5,431.0,40.0,153.0,2524,4174,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,92,2172.1832,2,BP_WorkerCharacter_C_1,0,415.0,438.0,39.0,169.0,4072,4072,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,93,2172.3832,2,BP_WorkerCharacter_C_1,0,391.0,449.5,95.0,182.0,5463,5463,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,94,2172.5832,2,BP_WorkerCharacter_C_1,0,381.0,461.5,113.0,196.0,6669,6669,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,95,2172.7832,2,BP_WorkerCharacter_C_1,0,357.5,476.5,68.0,226.0,6756,6756,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,96,2172.9832,2,BP_WorkerCharacter_C_1,0,308.0,501.5,117.0,260.0,10695,10695,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,97,2173.1832,2,BP_WorkerCharacter_C_1,0,313.0,509.0,61.0,261.0,10306,10311,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,98,2173.3832,2,BP_WorkerCharacter_C_1,0,313.5,513.5,56.0,252.0,10436,10436,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,99,2173.5832,2,BP_WorkerCharacter_C_1,0,312.5,520.5,68.0,238.0,12389,12389,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,100,2173.7832,2,BP_WorkerCharacter_C_1,0,310.0,531.0,85.0,217.0,14196,14196,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,101,2173.9832,2,BP_WorkerCharacter_C_1,0,307.0,546.5,115.0,186.0,15181,15181,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,102,2174.1832,2,BP_WorkerCharacter_C_1,0,292.5,573.5,146.0,132.0,14670,14670,1
+OccludedEmergence_v5_t+0.0_rep03,OccludedEmergence_v5_t+0.0,3,103,2174.3832,2,BP_WorkerCharacter_C_1,0,287.5,634.0,78.0,11.0,615,615,0

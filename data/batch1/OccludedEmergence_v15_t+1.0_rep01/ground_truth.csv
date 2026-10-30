@@ -1,0 +1,15 @@
+run_id,scenario_id,rep,frame_index,timestamp_s,stencil_id,actor_name,class_id,center_x,center_y,width,height,visible_px,full_px,detected
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,19,3582.3498,2,BP_WorkerCharacter_C_1,0,353.5,377.5,4.0,4.0,9,435,0
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,20,3582.5498,2,BP_WorkerCharacter_C_1,0,353.0,360.5,11.0,52.0,135,496,0
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,21,3582.7498,2,BP_WorkerCharacter_C_1,0,355.5,362.5,12.0,60.0,460,464,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,22,3582.9498,2,BP_WorkerCharacter_C_1,0,347.0,367.0,33.0,65.0,680,680,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,23,3583.1498,2,BP_WorkerCharacter_C_1,0,344.5,372.0,42.0,71.0,860,860,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,24,3583.3498,2,BP_WorkerCharacter_C_1,0,336.0,376.5,27.0,80.0,870,870,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,25,3583.5498,2,BP_WorkerCharacter_C_1,0,320.0,385.0,39.0,91.0,1357,1357,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,26,3583.7498,2,BP_WorkerCharacter_C_1,0,313.5,396.5,52.0,106.0,1826,1828,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,27,3583.9498,2,BP_WorkerCharacter_C_1,0,315.5,411.0,24.0,131.0,1897,1897,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,28,3584.1498,2,BP_WorkerCharacter_C_1,0,315.0,432.5,29.0,160.0,2881,2881,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,29,3584.3498,2,BP_WorkerCharacter_C_1,0,313.5,466.0,36.0,209.0,4886,4886,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,30,3584.5498,2,BP_WorkerCharacter_C_1,0,312.0,509.5,51.0,260.0,8820,8820,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,31,3584.7498,2,BP_WorkerCharacter_C_1,0,310.0,528.5,81.0,222.0,13689,13689,1
+OccludedEmergence_v15_t+1.0_rep01,OccludedEmergence_v15_t+1.0,1,32,3584.9498,2,BP_WorkerCharacter_C_1,0,286.5,616.0,134.0,47.0,4438,4438,0

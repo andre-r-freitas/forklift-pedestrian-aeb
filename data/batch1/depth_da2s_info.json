@@ -1,0 +1,13 @@
+{
+  "model": "depth-anything/Depth-Anything-V2-Metric-Indoor-Small-hf",
+  "name": "da2s",
+  "reps": [
+    0
+  ],
+  "scenarios": [
+    "LateralCrossing"
+  ],
+  "fp16": false,
+  "frames": 900,
+  "model_ms_per_frame": 28.175543149312336
+}

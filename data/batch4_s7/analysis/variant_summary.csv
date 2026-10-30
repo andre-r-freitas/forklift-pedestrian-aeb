@@ -1,0 +1,4 @@
+variant,runs,valid_runs,contact_rate,min_clearance_mean_m,min_clearance_min_m,contact_speed_mean_kmh,time_available_mean_s,entry_to_confirm_mean_s,clearance_at_stop_mean_m,recall_mean,recall_within_10m_mean,recall_within_10m_pooled,gt_frames_within_10m,runs_without_frames_within_10m,first_detection_dist_mean_m
+PartialVisibility_1_2m_v10,3.0,3.0,1.0,-0.7453333333333333,-0.911,10.003333333333332,1.013,,,0.995,1.0,1.0,54.0,0.0,34.41766666666667
+PartialVisibility_1_2m_v15,3.0,3.0,1.0,-0.8399999999999999,-1.142,15.01,1.0163333333333335,,,1.0,1.0,1.0,36.0,0.0,33.293
+PartialVisibility_1_8m_v10,3.0,3.0,1.0,-0.7453333333333333,-0.911,10.003333333333332,1.013,,,0.9433333333333334,0.7833333333333333,0.7857142857142857,42.0,0.0,34.41766666666667

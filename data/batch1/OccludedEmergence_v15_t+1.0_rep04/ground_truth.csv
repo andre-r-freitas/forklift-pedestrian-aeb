@@ -1,0 +1,15 @@
+run_id,scenario_id,rep,frame_index,timestamp_s,stencil_id,actor_name,class_id,center_x,center_y,width,height,visible_px,full_px,detected
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,19,3619.4831,2,BP_WorkerCharacter_C_1,0,352.0,367.0,7.0,27.0,33,436,0
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,20,3619.6831,2,BP_WorkerCharacter_C_1,0,352.5,359.5,12.0,54.0,217,483,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,21,3619.8831,2,BP_WorkerCharacter_C_1,0,352.0,362.0,13.0,59.0,490,490,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,22,3620.0831,2,BP_WorkerCharacter_C_1,0,344.5,366.5,36.0,64.0,678,678,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,23,3620.2831,2,BP_WorkerCharacter_C_1,0,340.5,371.0,40.0,69.0,851,851,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,24,3620.4831,2,BP_WorkerCharacter_C_1,0,331.0,376.5,21.0,80.0,818,818,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,25,3620.6831,2,BP_WorkerCharacter_C_1,0,313.5,385.0,46.0,89.0,1357,1357,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,26,3620.8831,2,BP_WorkerCharacter_C_1,0,315.5,395.5,20.0,108.0,1333,1333,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,27,3621.0831,2,BP_WorkerCharacter_C_1,0,315.5,409.5,24.0,128.0,1843,1843,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,28,3621.2831,2,BP_WorkerCharacter_C_1,0,314.5,431.0,28.0,157.0,2789,2789,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,29,3621.4831,2,BP_WorkerCharacter_C_1,0,313.5,463.5,36.0,204.0,4686,4686,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,30,3621.6831,2,BP_WorkerCharacter_C_1,0,312.0,508.5,49.0,262.0,8500,8500,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,31,3621.8831,2,BP_WorkerCharacter_C_1,0,311.0,526.5,77.0,226.0,13287,13287,1
+OccludedEmergence_v15_t+1.0_rep04,OccludedEmergence_v15_t+1.0,4,32,3622.0831,2,BP_WorkerCharacter_C_1,0,280.5,599.0,162.0,81.0,9255,9255,0

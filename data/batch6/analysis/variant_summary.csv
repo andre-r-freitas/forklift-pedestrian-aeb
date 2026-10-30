@@ -1,0 +1,3 @@
+variant,runs,valid_runs,contact_rate,min_clearance_mean_m,min_clearance_min_m,contact_speed_mean_kmh,time_available_mean_s,entry_to_confirm_mean_s,clearance_at_stop_mean_m,recall_mean,recall_within_10m_mean,recall_within_10m_pooled,gt_frames_within_10m,runs_without_frames_within_10m,first_detection_dist_mean_m
+RelativeSameDirection_v10,10.0,10.0,1.0,-1.285,-1.285,10.009,4.2871,,,0.9658999999999999,1.0,1.0,384.0,0.0,10.916999999999998
+RelativeSameDirection_v15,10.0,10.0,1.0,-1.285,-1.285,14.87,2.559,,,0.9568,1.0,1.0,180.0,0.0,9.7365

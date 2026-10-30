@@ -1,0 +1,10 @@
+variant,runs,valid_runs,contact_rate,min_clearance_mean_m,min_clearance_min_m,contact_speed_mean_kmh,time_available_mean_s,entry_to_confirm_mean_s,clearance_at_stop_mean_m,recall_mean,recall_within_10m_mean,recall_within_10m_pooled,gt_frames_within_10m,runs_without_frames_within_10m,first_detection_dist_mean_m
+ApproachAndStop_v10_t+0.5,10.0,10.0,0.0,0.7176,0.709,,,,,0.9984,0.9944,0.9944444444444445,180.0,0.0,34.417500000000004
+ApproachAndStop_v10_t+1.0,10.0,10.0,0.0,0.7176,0.709,,,,,1.0,1.0,1.0,180.0,0.0,34.417500000000004
+ApproachAndStop_v10_t+2.0,10.0,10.0,0.0,0.7176,0.709,,,,,1.0,1.0,1.0,180.0,0.0,34.417500000000004
+ApproachAndStop_v15_t+0.5,10.0,10.0,0.0,0.7175,0.709,,,,,0.9975999999999999,0.9917,0.9916666666666667,120.0,0.0,33.23700000000001
+ApproachAndStop_v15_t+1.0,10.0,10.0,0.0,0.7175,0.709,,,,,1.0,1.0,1.0,120.0,0.0,33.23700000000001
+ApproachAndStop_v15_t+2.0,10.0,10.0,0.0,0.7175,0.709,,,,,1.0,1.0,1.0,120.0,0.0,33.23700000000001
+ApproachAndStop_v5_t+0.5,10.0,10.0,0.0,0.7176,0.709,,,,,0.9984,0.9972,0.9972222222222222,360.0,0.0,35.155
+ApproachAndStop_v5_t+1.0,10.0,10.0,0.0,0.7176,0.709,,,,,0.9992000000000001,1.0,1.0,360.0,0.0,35.155
+ApproachAndStop_v5_t+2.0,10.0,10.0,0.0,0.7176,0.709,,,,,0.9920000000000002,1.0,1.0,360.0,0.0,35.155

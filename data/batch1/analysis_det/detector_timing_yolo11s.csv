@@ -1,0 +1,2 @@
+detector,model,half,frames,preprocess_ms_mean,inference_ms_mean,inference_ms_p95,postprocess_ms_mean,total_ms_mean
+yolo11s,D:\Thesis\YOLOmodels\yolo11s.pt,False,200,1.1016945011215284,7.608697501709685,10.872025007847697,0.913223999668844,9.623616002500057

@@ -1,0 +1,15 @@
+run_id,scenario_id,rep,frame_index,timestamp_s,stencil_id,actor_name,class_id,center_x,center_y,width,height,visible_px,full_px,detected
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,19,3656.6498,2,BP_WorkerCharacter_C_1,0,350.0,365.0,11.0,33.0,78,440,0
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,20,3656.8498,2,BP_WorkerCharacter_C_1,0,352.0,359.5,13.0,54.0,368,439,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,21,3657.0498,2,BP_WorkerCharacter_C_1,0,346.5,362.5,22.0,60.0,551,551,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,22,3657.2498,2,BP_WorkerCharacter_C_1,0,341.0,367.0,39.0,63.0,708,708,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,23,3657.4498,2,BP_WorkerCharacter_C_1,0,334.5,371.0,32.0,71.0,804,804,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,24,3657.6498,2,BP_WorkerCharacter_C_1,0,320.5,377.0,22.0,81.0,997,997,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,25,3657.8498,2,BP_WorkerCharacter_C_1,0,313.5,386.5,34.0,92.0,1303,1303,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,26,3658.0498,2,BP_WorkerCharacter_C_1,0,315.5,397.0,20.0,109.0,1343,1343,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,27,3658.2498,2,BP_WorkerCharacter_C_1,0,315.5,411.5,24.0,130.0,1900,1900,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,28,3658.4498,2,BP_WorkerCharacter_C_1,0,314.0,432.5,29.0,160.0,2900,2900,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,29,3658.6498,2,BP_WorkerCharacter_C_1,0,313.0,466.5,37.0,208.0,4895,4895,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,30,3658.8498,2,BP_WorkerCharacter_C_1,0,311.5,509.5,52.0,260.0,8814,8814,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,31,3659.0498,2,BP_WorkerCharacter_C_1,0,310.5,528.5,80.0,222.0,13632,13632,1
+OccludedEmergence_v15_t+1.0_rep07,OccludedEmergence_v15_t+1.0,7,32,3659.2498,2,BP_WorkerCharacter_C_1,0,283.0,610.5,155.0,58.0,6006,6006,0

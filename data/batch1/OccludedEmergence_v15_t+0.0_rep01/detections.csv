@@ -1,0 +1,8 @@
+run_id,scenario_id,rep,frame_index,timestamp_s,class_id,confidence,center_x,center_y,width,height,matched_stencil_id,matched_iou,depth_m,est_x_m,est_y_m,fwd_m,lat_m,in_zone
+OccludedEmergence_v15_t+0.0_rep01,OccludedEmergence_v15_t+0.0,1,25,3459.7165,0,0.48551,376.336,389.677,18.777,86.556,2,0.9082,7.991,39.661,-30.253,6.291,1.407,0
+OccludedEmergence_v15_t+0.0_rep01,OccludedEmergence_v15_t+0.0,1,26,3459.9165,0,0.87589,384.598,395.284,24.135,108.218,2,0.9334,5.336,37.836,-30.582,3.636,1.077,1
+OccludedEmergence_v15_t+0.0_rep01,OccludedEmergence_v15_t+0.0,1,27,3460.1165,0,0.91880,373.618,409.598,60.225,127.147,2,0.9714,4.499,37.830,-30.906,2.799,0.754,1
+OccludedEmergence_v15_t+0.0_rep01,OccludedEmergence_v15_t+0.0,1,28,3460.3165,0,0.92354,372.479,430.025,90.249,153.159,2,0.9767,3.661,37.824,-31.059,1.961,0.600,1
+OccludedEmergence_v15_t+0.0_rep01,OccludedEmergence_v15_t+0.0,1,29,3460.5165,0,0.93310,362.332,457.986,70.134,197.870,2,0.9745,2.768,37.763,-31.293,1.068,0.366,1
+OccludedEmergence_v15_t+0.0_rep01,OccludedEmergence_v15_t+0.0,1,30,3460.7165,0,0.93945,335.437,507.630,90.970,264.761,2,0.9858,1.953,37.780,-31.565,0.253,0.094,1
+OccludedEmergence_v15_t+0.0_rep01,OccludedEmergence_v15_t+0.0,1,31,3460.9165,0,0.94139,299.998,530.054,133.511,219.211,2,0.9877,3.749,40.413,-31.894,2.049,-0.234,1

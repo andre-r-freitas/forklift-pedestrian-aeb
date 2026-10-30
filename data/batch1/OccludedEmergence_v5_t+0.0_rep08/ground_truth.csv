@@ -1,0 +1,11 @@
+run_id,scenario_id,rep,frame_index,timestamp_s,stencil_id,actor_name,class_id,center_x,center_y,width,height,visible_px,full_px,detected
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,93,2319.3832,2,BP_WorkerCharacter_C_1,0,439.0,449.0,41.0,171.0,1592,6201,1
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,94,2319.5832,2,BP_WorkerCharacter_C_1,0,443.5,462.0,64.0,199.0,5823,7074,1
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,95,2319.7832,2,BP_WorkerCharacter_C_1,0,431.0,477.0,55.0,225.0,7852,7852,1
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,96,2319.9832,2,BP_WorkerCharacter_C_1,0,403.0,498.0,139.0,249.0,10419,10419,1
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,97,2320.1832,2,BP_WorkerCharacter_C_1,0,387.5,509.0,152.0,261.0,12684,12684,1
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,98,2320.3832,2,BP_WorkerCharacter_C_1,0,344.0,511.0,67.0,257.0,11387,11387,1
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,99,2320.5832,2,BP_WorkerCharacter_C_1,0,307.0,521.5,121.0,236.0,14618,14618,1
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,100,2320.7832,2,BP_WorkerCharacter_C_1,0,311.0,528.5,83.0,222.0,14532,14532,1
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,101,2320.9832,2,BP_WorkerCharacter_C_1,0,308.0,544.5,111.0,190.0,15495,15495,1
+OccludedEmergence_v5_t+0.0_rep08,OccludedEmergence_v5_t+0.0,8,102,2321.1832,2,BP_WorkerCharacter_C_1,0,288.5,573.0,146.0,133.0,14949,14949,1

@@ -1,0 +1,17 @@
+run_id,scenario_id,rep,frame_index,timestamp_s,stencil_id,actor_name,class_id,center_x,center_y,width,height,visible_px,full_px,detected
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,17,3804.8498,2,BP_WorkerCharacter_C_1,0,346.0,359.5,9.0,28.0,56,336,0
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,18,3805.0498,2,BP_WorkerCharacter_C_1,0,347.0,354.0,11.0,47.0,264,346,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,19,3805.2498,2,BP_WorkerCharacter_C_1,0,343.0,356.5,17.0,50.0,401,401,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,20,3805.4498,2,BP_WorkerCharacter_C_1,0,337.0,359.5,33.0,54.0,500,500,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,21,3805.6498,2,BP_WorkerCharacter_C_1,0,331.5,363.0,28.0,59.0,558,558,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,22,3805.8498,2,BP_WorkerCharacter_C_1,0,320.5,366.5,16.0,66.0,644,644,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,23,3806.0498,2,BP_WorkerCharacter_C_1,0,315.0,372.0,27.0,73.0,808,809,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,24,3806.2498,2,BP_WorkerCharacter_C_1,0,316.5,378.5,16.0,82.0,781,781,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,25,3806.4498,2,BP_WorkerCharacter_C_1,0,316.5,386.5,18.0,94.0,1012,1012,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,26,3806.6498,2,BP_WorkerCharacter_C_1,0,315.5,397.0,20.0,109.0,1357,1357,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,27,3806.8498,2,BP_WorkerCharacter_C_1,0,315.5,412.0,24.0,129.0,1912,1912,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,28,3807.0498,2,BP_WorkerCharacter_C_1,0,314.5,433.0,30.0,159.0,2885,2885,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,29,3807.2498,2,BP_WorkerCharacter_C_1,0,313.5,466.5,38.0,208.0,4872,4872,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,30,3807.4498,2,BP_WorkerCharacter_C_1,0,311.5,509.0,52.0,261.0,8736,8736,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,31,3807.6498,2,BP_WorkerCharacter_C_1,0,312.0,526.5,77.0,226.0,13500,13500,1
+OccludedEmergence_v15_t+2.0_rep09,OccludedEmergence_v15_t+2.0,9,32,3807.8498,2,BP_WorkerCharacter_C_1,0,289.0,598.5,169.0,82.0,9830,9830,0
